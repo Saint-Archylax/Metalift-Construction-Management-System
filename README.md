@@ -58,11 +58,12 @@ METALIFT: Construction Management System (CMS) is a web-based platform designed 
 ## Technologies Used
 
 * Laravel
-* B
+* PHP
+* Blade
 * HTML
 * CSS
+* Tailwind CSS
 * JavaScript
-* Bootstrap
 * MySQL
 * Git & GitHub
 
